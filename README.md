@@ -1,3 +1,8 @@
-# Function_Generator
- Semester 3 Analog Group Project
- This repository contains the Multisim simulation file, Altium PCB design files and Solidworks Enclosure design files.
+# Function Generator Project
+This was a group project for Laboratory Practices module in semester 3.  
+
+This repository contains,  
+ - Final project report
+ - Multisim simulation file
+ - Altium PCB design files
+ - Solidworks Enclosure design files
